@@ -1,0 +1,1 @@
+sc ansible_host=178.154.225.220 ansible_user=yc-user

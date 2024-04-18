@@ -1,0 +1,1 @@
+ssh $SC_ANSIBLE_USER@$SC_IP
